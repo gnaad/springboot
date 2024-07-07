@@ -1,4 +1,4 @@
-name: Building JAR with Maven
+name: Build JAR with Maven
 
 on:
   push:
